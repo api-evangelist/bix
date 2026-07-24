@@ -1,8 +1,23 @@
 aid: bix
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bix.png
 name: Bix
-description: 'Bix is a company surfaced as a portfolio company of trinity-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Bix was an online talent-competition community founded in 2006 by Mike Speiser (co-founder
+  of Epinions), where users created and judged web-based contests across karaoke, dance, photography,
+  writing, beauty, and comedy. Backed by Trinity Ventures, the roughly 16-person startup grew to over
+  one million users within months and was acquired by Yahoo! in November 2006; Yahoo later shut the
+  service down. This API Evangelist profile documents Bix as a historical, defunct consumer company
+  with no live website, developer platform, or API surface to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/bix/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +25,30 @@ x-backed-by:
 - trinity-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-acquired-by: yahoo
+x-acquired-year: '2006'
+x-founded: '2006'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Consumer
+- Video
+- User-Generated Content
+- Talent Competition
+- Community
+- Defunct
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
