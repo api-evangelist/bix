@@ -64,8 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bix was an online talent-competition community founded in 2006 by Mike Speiser (co-founder of Epinions), where users created and judged web-based contests across karaoke, dance, photography, writing, beauty, and comedy. Backed by Trinity Ventures, the company was acquired by Yahoo! in November 2006 and the service was later shut down.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Status: defunct (acquired by Yahoo, 2006). No live website, developer platform, or API surface exists to enrich.
+Bix was an online talent-competition community founded in 2006 by Mike Speiser (co-founder of Epinions), where users created and judged web-based contests across karaoke, dance, photography, writing, beauty, and comedy. Backed by Trinity Ventures, the roughly 16-person startup grew to over one million users within months and was acquired by Yahoo! in November 2006; Yahoo later shut the service down. This API Evangelist profile documents Bix as a historical, defunct consumer company with no live website, developer platform, or API surface to enrich.
 
-Backed by: trinity-ventures
+**Areas:** Company · Consumer · Video · User Generated Content · Talent Competition · Community · Defunct · Acquired
+
+## Bix on APIs.io (historical record)
+
+Everything profiled for Bix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bix/](https://apis.io/providers/bix/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bix/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
